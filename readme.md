@@ -1,4 +1,4 @@
-#React Template with Webpack
+# React Template with Webpack
 
 # Notice
 > This is not official react repository. I just want to create several projects for studying, so I just need a template that I can build my own way. This is a really basic template, no Redux, nothing any other packages except for the Webpack. I use some packages to make minimalize the bundles.js or style files.
